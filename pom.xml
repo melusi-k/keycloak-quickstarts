@@ -44,7 +44,7 @@
         <version.enforcer.maven.plugin>1.4.1</version.enforcer.maven.plugin>
         <version.surefire.plugin>2.19.1</version.surefire.plugin>
         <version.exec.maven.plugin>1.6.0</version.exec.maven.plugin>
-        <version.frontend.maven.plugin>1.4</version.frontend.maven.plugin>
+        <version.frontend.maven.plugin>1.8.0</version.frontend.maven.plugin>
 
         <arquillian-graphene.version>2.1.0.Final</arquillian-graphene.version>
         <arquillian-phantom.version>1.2.1.Final</arquillian-phantom.version>
